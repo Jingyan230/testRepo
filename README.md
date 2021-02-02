@@ -20,6 +20,7 @@ A repository for explaining **github** using **bold text** and maybe some *itali
 
 [This is the linked text](http://www.google.com)
 
+
 | Syntax | Description |
 | ----------- | ----------- |
 |  **Header** | Title |
